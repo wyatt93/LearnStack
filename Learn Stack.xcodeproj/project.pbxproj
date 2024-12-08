@@ -35,14 +35,14 @@
 			path = "Learn Stack";
 			sourceTree = "<group>";
 		};
-		1FB9AE0B2CFF3E52000DB0A0 /* Informatik StackTests */ = {
+		1FB9AE0B2CFF3E52000DB0A0 /* Learn StackTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Informatik StackTests";
+			path = "Learn StackTests";
 			sourceTree = "<group>";
 		};
-		1FB9AE152CFF3E52000DB0A0 /* Informatik StackUITests */ = {
+		1FB9AE152CFF3E52000DB0A0 /* Learn StackUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Informatik StackUITests";
+			path = "Learn StackUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +76,8 @@
 			isa = PBXGroup;
 			children = (
 				1FB9ADF82CFF3E50000DB0A0 /* Learn Stack */,
-				1FB9AE0B2CFF3E52000DB0A0 /* Informatik StackTests */,
-				1FB9AE152CFF3E52000DB0A0 /* Informatik StackUITests */,
+				1FB9AE0B2CFF3E52000DB0A0 /* Learn StackTests */,
+				1FB9AE152CFF3E52000DB0A0 /* Learn StackUITests */,
 				1FB9ADF72CFF3E50000DB0A0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 				1FB9AE0A2CFF3E52000DB0A0 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				1FB9AE0B2CFF3E52000DB0A0 /* Informatik StackTests */,
+				1FB9AE0B2CFF3E52000DB0A0 /* Learn StackTests */,
 			);
 			name = "Learn StackTests";
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				1FB9AE142CFF3E52000DB0A0 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				1FB9AE152CFF3E52000DB0A0 /* Informatik StackUITests */,
+				1FB9AE152CFF3E52000DB0A0 /* Learn StackUITests */,
 			);
 			name = "Learn StackUITests";
 			packageProductDependencies = (
